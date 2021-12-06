@@ -19,7 +19,7 @@ $ make
 ```
 $ ./appsketch
 ```
-- Or
+- You can give the path of the IP-trace dataset.
 ```
 $ ./appsketch ./traces/ipv4.202011262000.pcap
 ```
