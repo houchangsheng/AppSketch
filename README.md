@@ -6,7 +6,6 @@
 
 ### Files
 - libprotoident: Libprotoident library related files
-- adaptor.hpp adaptor.cpp: extract stream data from pcap files
 - sketch.hpp sketch.cpp: the implementation of AppSketch
 - sketch2.hpp sketch2.cpp: the implementation of Enhanced TCM
 - main.hpp main.cpp: the interface of traffic analysis using AppSketch\Enhanced TCM
