@@ -19,7 +19,6 @@ $ make
 ```
 $ ./appsketch
 ```
-- or
 ```
 $ ./appsketch ./traces/ipv4.202011262000.pcap
 ```
