@@ -11,9 +11,9 @@
 - main.hpp main.cpp: the interface of traffic analysis using AppSketch\Enhanced TCM
 
 ### Required Libraries
-1. libtrace 4.0.1 or later
+- libtrace 4.0.1 or later
   - available from http://research.wand.net.nz/software/libtrace.php
-2. libflowmanager 3.0.0 or later
+- libflowmanager 3.0.0 or later
   - available from http://research.wand.net.nz/software/libflowmanager.php
 
 ### Compile and Run
