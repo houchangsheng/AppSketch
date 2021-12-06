@@ -10,6 +10,12 @@
 - sketch2.hpp sketch2.cpp: the implementation of Enhanced TCM
 - main.hpp main.cpp: the interface of traffic analysis using AppSketch\Enhanced TCM
 
+### Required Libraries
+- libtrace 4.0.1 or later
+	available from http://research.wand.net.nz/software/libtrace.php
+- libflowmanager 3.0.0 or later
+	available from http://research.wand.net.nz/software/libflowmanager.php
+
 ### Compile and Run
 - Compile with make
 ```
